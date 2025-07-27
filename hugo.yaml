@@ -1,7 +1,7 @@
 baseURL: https://example.org/
 languageCode: en-us
 title: The Outliers
-theme: hugo-theme-POI
+theme: POI
 
 Params:
   title: The Outliers
