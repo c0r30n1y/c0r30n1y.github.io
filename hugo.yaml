@@ -1,0 +1,19 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: The Outliers
+theme: hugo-theme-POI
+
+Params:
+  title: The Outliers
+  description: I'm a hobbyist developer. This website is mainly about my personal projects.
+  location: Shanghai China
+
+pagination:
+  pagerSize: 4
+  path: "blog"
+
+markup:
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 1
