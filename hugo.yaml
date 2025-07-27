@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://c0r30n1y.github.io
 languageCode: en-us
 title: The Outliers
 theme: POI
@@ -17,3 +17,7 @@ markup:
     endLevel: 3
     ordered: false
     startLevel: 1
+
+caches:
+  images:
+    dir: :cacheDir/images
