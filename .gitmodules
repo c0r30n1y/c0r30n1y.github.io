@@ -1,0 +1,3 @@
+[submodule "themes/POI"]
+	path = themes/POI
+	url = git@github.com:c0r30n1y/hugo-theme-POI.git
