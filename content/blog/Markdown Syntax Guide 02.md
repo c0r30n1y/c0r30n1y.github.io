@@ -1,17 +1,27 @@
 ---
-title: "blog-02"
+title: "Markdown Syntax Guide 02"
 date: 2023-07-22T15:00:00+08:00
 author: "guts"
 tags: ["Hugo", "Markdown", "Tutorial"]
 categories: ["Introduction"]
 draft: false
 ---
+# Figure
+
+{{< figure
+  src="/img/bg_poi.jpg"
+  alt="A photograph of Zion National Park"
+  link="https://www.nps.gov/zion/index.htm"
+  caption="Zion National Park"
+  class="ma0 w-75"
+>}}
+
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 
 <!--more-->
 
-## Headings
+# Headings
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 

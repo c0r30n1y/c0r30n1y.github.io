@@ -1,5 +1,5 @@
 ---
-title: "blog-01"
+title: "Markdown Syntax Guide"
 date: 2023-07-21T15:00:00+08:00
 author: "guts"
 tags: ["Hugo", "Markdown", "Tutorial"]
